@@ -13,10 +13,10 @@ This directory is a collection of powerpoint presentations as lectures. For the 
 - Comp Sci 101 presentation
     - Homework to review Python and R Basics notebooks
 - WGS 101 presentation
-    - Homework to review NGS QC
-    - BLAST assignment
+    - BWA assignment
+    - De novo assembly assignment
 - RNASeq 101 presentation
-    - Homework to review Data wrangling- Commons/Uniques
+    - Data Wrangling Assignment
 - Plotting and clustering presentation
     - Volcano, Heatmap, Venn Diagram, Circos plot notebooks homework
 - Nextflow and Docker presentation
